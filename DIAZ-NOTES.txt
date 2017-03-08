@@ -1,0 +1,7 @@
+When Testing the API:
+
+Header needs the API-Secret in the request HEADER
+https://github.com/nightscout/cgm-remote-monitor/wiki/API-v1.0.0-beta-Security
+
+Also make sure default role is set to denied to restrict all API Access
+https://github.com/nightscout/cgm-remote-monitor/issues/2084
